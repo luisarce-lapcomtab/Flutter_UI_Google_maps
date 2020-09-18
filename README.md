@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+- Obtenga una clave de API aquí: https://cloud.google.com/maps-platform/ 
+- Edite android/app/src/main/AndroidManifest.xml y establezca la clave de API
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
